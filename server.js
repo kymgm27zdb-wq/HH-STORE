@@ -7,7 +7,7 @@ require('dotenv').config();
 
 const app = express();
 const PORT = Number(process.env.PORT || 3000);
-const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'CHANGE_THIS_PASSWORD';
+const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'HHstore2026!';
 const SESSION_SECRET = process.env.SESSION_SECRET || 'CHANGE_THIS_RANDOM_SECRET';
 const WHATSAPP_NUMBER = process.env.WHATSAPP_NUMBER || '994512379292';
 const STORE_NAME = process.env.STORE_NAME || 'HH Store';
