@@ -1,0 +1,427 @@
+[
+  {
+    "name": "iPhone 18 Pro Max",
+    "spec": "256 GB | Burgundy",
+    "price": 3499,
+    "img": "https://www.fkaysmartphone.co.ke/web/image/625029-c40cb6ec/apple-iphone-18-pro-max-11.jpg",
+    "badge": "Yeni",
+    "brand": "Apple",
+    "cat": "phone",
+    "stock": 14,
+    "colors": [
+      "Burgundy",
+      "Black",
+      "Silver"
+    ],
+    "storage": [
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ]
+  },
+  {
+    "name": "iPhone 18 Pro",
+    "spec": "256 GB | Black",
+    "price": 3199,
+    "img": "https://www.fkaysmartphone.co.ke/web/image/625029-c40cb6ec/apple-iphone-18-pro-max-11.jpg",
+    "badge": "Yeni",
+    "brand": "Apple",
+    "cat": "phone",
+    "stock": 17,
+    "colors": [
+      "Black",
+      "Silver",
+      "Burgundy"
+    ],
+    "storage": [
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ]
+  },
+  {
+    "name": "iPhone Air",
+    "spec": "256 GB | Sky Blue",
+    "price": 2899,
+    "img": "https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/183/18392/18392690.jpg",
+    "badge": "Yeni",
+    "brand": "Apple",
+    "cat": "phone",
+    "stock": 12,
+    "colors": [
+      "Sky Blue",
+      "Black",
+      "Silver"
+    ],
+    "storage": [
+      "256 GB",
+      "512 GB"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy S26 Ultra",
+    "spec": "12 GB | 256 GB | Cobalt Violet",
+    "price": 2799,
+    "img": "https://ddfndelma2gpn.cloudfront.net/color/3387/Cobalt_Violet.webp",
+    "badge": "Yeni",
+    "brand": "Samsung",
+    "cat": "phone",
+    "stock": 16,
+    "colors": [
+      "Cobalt Violet",
+      "Black",
+      "Silver"
+    ],
+    "storage": [
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy S26+",
+    "spec": "12 GB | 256 GB",
+    "price": 2399,
+    "img": "https://ddfndelma2gpn.cloudfront.net/color/3387/Cobalt_Violet.webp",
+    "badge": "Yeni",
+    "brand": "Samsung",
+    "cat": "phone",
+    "stock": 13,
+    "colors": [
+      "Cobalt Violet",
+      "Black",
+      "Silver"
+    ],
+    "storage": [
+      "256 GB",
+      "512 GB"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy S26",
+    "spec": "12 GB | 256 GB",
+    "price": 2099,
+    "img": "https://ddfndelma2gpn.cloudfront.net/color/3387/Cobalt_Violet.webp",
+    "badge": "Yeni",
+    "brand": "Samsung",
+    "cat": "phone",
+    "stock": 19,
+    "colors": [
+      "Cobalt Violet",
+      "Black",
+      "Silver"
+    ],
+    "storage": [
+      "256 GB",
+      "512 GB"
+    ]
+  },
+  {
+    "name": "AirPods 5",
+    "spec": "USB-C Case | ANC",
+    "price": 349,
+    "img": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP880/sp880-airpods-Pro-2nd-gen.png",
+    "badge": "Yeni",
+    "brand": "Apple",
+    "cat": "audio",
+    "stock": 15,
+    "colors": [
+      "White"
+    ],
+    "storage": [
+      "USB-C Case"
+    ]
+  },
+  {
+    "name": "AirPods 5 Wireless Charging Case",
+    "spec": "USB-C | Wireless Charging",
+    "price": 429,
+    "img": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP880/sp880-airpods-Pro-2nd-gen.png",
+    "badge": "Yeni",
+    "brand": "Apple",
+    "cat": "audio",
+    "stock": 11,
+    "colors": [
+      "White"
+    ],
+    "storage": [
+      "Wireless Charging"
+    ]
+  },
+  {
+    "name": "AirPods Pro 3",
+    "spec": "ANC | USB-C",
+    "price": 599,
+    "img": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP880/sp880-airpods-Pro-2nd-gen.png",
+    "badge": "Yeni",
+    "brand": "Apple",
+    "cat": "audio",
+    "stock": 18,
+    "colors": [
+      "White"
+    ],
+    "storage": [
+      "USB-C"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy Buds4 Pro",
+    "spec": "Hi-Fi | ANC",
+    "price": 429,
+    "img": "https://www.thunderworx.net/image/original/4/samsung-galaxy-buds4-pro-official.jpg",
+    "badge": "Yeni",
+    "brand": "Samsung",
+    "cat": "audio",
+    "stock": 14,
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "storage": [
+      "Standard"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy Buds4",
+    "spec": "Hi-Fi | Adaptive ANC",
+    "price": 329,
+    "img": "https://www.thunderworx.net/image/original/4/samsung-galaxy-buds4-pro-official.jpg",
+    "badge": "Yeni",
+    "brand": "Samsung",
+    "cat": "audio",
+    "stock": 20,
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "storage": [
+      "Standard"
+    ]
+  },
+  {
+    "name": "Apple Watch Series 12",
+    "spec": "42 mm | GPS | Black",
+    "price": 899,
+    "img": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/02/full/1772445627-2355.png",
+    "badge": "Yeni",
+    "brand": "Apple",
+    "cat": "watch",
+    "stock": 12,
+    "colors": [
+      "Black",
+      "Silver",
+      "Gold"
+    ],
+    "storage": [
+      "42 mm | GPS",
+      "42 mm | GPS + Cellular"
+    ]
+  },
+  {
+    "name": "Apple Watch Series 12",
+    "spec": "46 mm | GPS + Cellular",
+    "price": 1099,
+    "img": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/02/full/1772445627-2355.png",
+    "badge": "Yeni",
+    "brand": "Apple",
+    "cat": "watch",
+    "stock": 16,
+    "colors": [
+      "Black",
+      "Silver",
+      "Gold"
+    ],
+    "storage": [
+      "46 mm | GPS",
+      "46 mm | GPS + Cellular"
+    ]
+  },
+  {
+    "name": "Apple Watch Ultra 4",
+    "spec": "49 mm | Titanium | GPS + Cellular",
+    "price": 1499,
+    "img": "https://staticg.sportskeeda.com/editor/2026/05/eec9f-17791749973873-1920.jpg",
+    "badge": "Yeni",
+    "brand": "Apple",
+    "cat": "watch",
+    "stock": 10,
+    "colors": [
+      "Titanium"
+    ],
+    "storage": [
+      "49 mm | GPS + Cellular"
+    ]
+  },
+  {
+    "name": "MacBook Air M5",
+    "spec": "15.3\" | 16 GB | 512 GB SSD",
+    "price": 2899,
+    "img": "https://cdn.jiostore.online/v2/jmd-asp/jdprod/wrkr/products/pictures/item/free/original/apple/494743495/0/hk3Llz0lUD-2a0KQe6Ug6-Apple-MacBook-Air-Apple-M5-Chip-Midnight-i-1.jpg",
+    "badge": "Yeni",
+    "brand": "Apple",
+    "cat": "laptop",
+    "stock": 18,
+    "colors": [
+      "Midnight",
+      "Silver",
+      "Starlight"
+    ],
+    "storage": [
+      "16 GB | 512 GB",
+      "24 GB | 512 GB",
+      "24 GB | 1 TB"
+    ]
+  },
+  {
+    "name": "MacBook Pro 14 M5",
+    "spec": "14.2\" | 16 GB | 512 GB SSD",
+    "price": 4199,
+    "img": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85",
+    "badge": "Yeni",
+    "brand": "Apple",
+    "cat": "laptop",
+    "stock": 13,
+    "colors": [
+      "Space Black",
+      "Silver"
+    ],
+    "storage": [
+      "16 GB | 512 GB",
+      "24 GB | 1 TB"
+    ]
+  },
+  {
+    "name": "MacBook Pro 16",
+    "spec": "16\" | M5 | 1 TB SSD",
+    "price": 5599,
+    "img": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=85",
+    "badge": "Yeni",
+    "brand": "Apple",
+    "cat": "laptop",
+    "stock": 11,
+    "colors": [
+      "Space Black",
+      "Silver"
+    ],
+    "storage": [
+      "24 GB | 1 TB",
+      "36 GB | 2 TB"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy Book6 Ultra",
+    "spec": "16\" | Core Ultra 7 | 32 GB | 1 TB",
+    "price": 3399,
+    "img": "https://media2.nbb-cdn.de/images/products/SEG_Galaxy_Book6_Ultra_NP960UJH_intel_Core_Ultra7_Gray_Front_offen_RGB_a8be.png",
+    "badge": "Yeni",
+    "brand": "Samsung",
+    "cat": "laptop",
+    "stock": 15,
+    "colors": [
+      "Gray"
+    ],
+    "storage": [
+      "32 GB | 1 TB",
+      "64 GB | 2 TB"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy Book6 Pro",
+    "spec": "16\" | 32 GB | 1 TB SSD",
+    "price": 2799,
+    "img": "https://media2.nbb-cdn.de/images/products/SEG_Galaxy_Book6_Ultra_NP960UJH_intel_Core_Ultra7_Gray_Front_offen_RGB_a8be.png",
+    "badge": "Yeni",
+    "brand": "Samsung",
+    "cat": "laptop",
+    "stock": 19,
+    "colors": [
+      "Gray",
+      "Silver"
+    ],
+    "storage": [
+      "16 GB | 512 GB",
+      "32 GB | 1 TB"
+    ]
+  },
+  {
+    "name": "Apple 60W USB-C Cable",
+    "spec": "1 m | USB-C to USB-C",
+    "price": 89,
+    "img": "https://www.firstshop.co.za/cdn/shop/files/wca013kqwh-chargers-adapters-1170636148.jpg?v=1748538183&width=1200",
+    "badge": "USB",
+    "brand": "Aksesuar",
+    "cat": "usb",
+    "stock": 20,
+    "colors": [
+      "White"
+    ],
+    "storage": [
+      "1 m"
+    ]
+  },
+  {
+    "name": "Apple 20W USB-C Adapter",
+    "spec": "USB-C | Fast Charge",
+    "price": 69,
+    "img": "https://www.firstshop.co.za/cdn/shop/files/wca013kqwh-chargers-adapters-1170636148.jpg?v=1748538183&width=1200",
+    "badge": "USB",
+    "brand": "Aksesuar",
+    "cat": "usb",
+    "stock": 17,
+    "colors": [
+      "White"
+    ],
+    "storage": [
+      "20W"
+    ]
+  },
+  {
+    "name": "Samsung 65W Power Adapter",
+    "spec": "USB-C | Super Fast Charging",
+    "price": 119,
+    "img": "https://www.firstshop.co.za/cdn/shop/files/wca013kqwh-chargers-adapters-1170636148.jpg?v=1748538183&width=1200",
+    "badge": "USB",
+    "brand": "Aksesuar",
+    "cat": "usb",
+    "stock": 14,
+    "colors": [
+      "Black"
+    ],
+    "storage": [
+      "65W"
+    ]
+  },
+  {
+    "name": "Samsung USB-C Cable",
+    "spec": "1 m | USB-C to USB-C",
+    "price": 39,
+    "img": "https://www.firstshop.co.za/cdn/shop/files/wca013kqwh-chargers-adapters-1170636148.jpg?v=1748538183&width=1200",
+    "badge": "USB",
+    "brand": "Aksesuar",
+    "cat": "usb",
+    "stock": 18,
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "storage": [
+      "1 m"
+    ]
+  },
+  {
+    "name": "USB-C 3-in-1 Hub",
+    "spec": "HDMI | USB 3.0 | USB-C PD",
+    "price": 79,
+    "img": "https://www.firstshop.co.za/cdn/shop/files/wca013kqwh-chargers-adapters-1170636148.jpg?v=1748538183&width=1200",
+    "badge": "USB",
+    "brand": "Aksesuar",
+    "cat": "usb",
+    "stock": 12,
+    "colors": [
+      "Gray"
+    ],
+    "storage": [
+      "3-in-1"
+    ]
+  }
+]
